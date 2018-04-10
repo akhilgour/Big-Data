@@ -1,0 +1,9 @@
+*/
+*
+Directory util contains java class to make 100 decks of playing cards and write it to a files in a random order.
+*/
+
+*/
+*
+Directory assgn1 contains Hadoop Mapreduce program for counting total number of numeric cards in a suit of 100 decks of cards.
+*/
